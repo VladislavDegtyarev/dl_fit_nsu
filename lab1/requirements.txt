@@ -1,0 +1,8 @@
+# Pyhon 3.10
+hydra-core
+pandas
+pytorch-lightning
+torch
+torchmetrics
+torchvision
+seaborn
