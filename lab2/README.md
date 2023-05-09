@@ -1,0 +1,1 @@
+[WANDB отчёт](https://wandb.ai/whatislove/sentiment_analysis/reports/Sentiment-analysis-RuSentiTweet--Vmlldzo0MzA2NTk1?accessToken=cxg4edxcvo6h4ay16pvc7ws7fz0vx3lhzrv6dsaqo6kgh8t2l1iwh17tllrammn8)
