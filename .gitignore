@@ -3,5 +3,6 @@
 **logs
 
 **.ipynb_checkpoints
+**__pycache__
 
 lectures
